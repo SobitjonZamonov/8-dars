@@ -1,0 +1,144 @@
+.container_service1 {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 108px;
+}
+
+._service1 {
+    width: 1110px;
+    height: 536px;
+    display: flex;
+    gap: 125px;
+    justify-content: center;
+}
+
+.service1_info h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 110%;
+    letter-spacing: -0.02em;
+    color: #242d52;
+    margin: 0;
+}
+
+.service1_info p {
+    width: 350px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    color: #242d52;
+    margin-top: 24px;
+}
+
+
+/*-------------------------------------------------- */
+
+.service1_window1 {
+    display: flex;
+    gap: 28px;
+    justify-content: center;
+    width: 540px;
+}
+
+
+.service1_window1 h3 {
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    color: #242d52;
+}
+
+.service1_window1 p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    color: #242d52;
+    opacity: 0.5;
+}
+
+.service1_window1 button {
+    padding: 6px 25px 10px  23px;
+    border-radius: 39px;
+    background-color: #F3603C;
+    border:  none;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+/*-------------------------------------------------------------- */
+
+.service1_window2 {
+    display: flex;
+    gap: 28px;
+    justify-content: center;
+    width: 540px;
+}
+
+
+.service1_window2 h3 {
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    color: #242d52;
+}
+
+.service1_window2 p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    color: #242d52;
+    opacity: 0.5;
+}
+
+.service1_window2 button {
+    padding: 6px 25px 10px  23px;
+    border-radius: 39px;
+    background-color: #F3603C;
+    border:  none;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+
+/* ----------------------------------------------- */
+
+.service1_window3 {
+    display: flex;
+    gap: 28px;
+    justify-content: center;
+    width: 540px;
+}
+
+
+.service1_window3 h3 {
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    color: #242d52;
+}
+
+.service1_window3 p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    color: #242d52;
+    opacity: 0.5;
+}
+
+.service1_window3 button {
+    padding: 6px 25px 10px  23px;
+    border-radius: 39px;
+    background-color: #F3603C;
+    border:  none;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #fff;
+}

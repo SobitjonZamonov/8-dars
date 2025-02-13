@@ -1,0 +1,33 @@
+.service3-container {
+    width: 1920px;
+    height: 220px;
+    display: flex;
+    justify-content: space-around;
+}
+
+._service3 {
+    width: 1114px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 532px;
+    background-color: #F3603C;
+    padding: 30px 120px;
+}
+
+._service3 h2 {
+    width: 450px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 110%;
+    color: #fff;
+}
+
+._service3 button {
+    padding: 13px 32px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    border-radius: 22px;
+    border: none;
+    color: #F3603C;
+    background-color: #fff;
+}

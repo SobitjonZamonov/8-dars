@@ -1,0 +1,39 @@
+.container_header {
+    width: 1700px;
+    padding: 5px 20px;
+    margin: 56px 80px;
+}
+
+.header__block {
+    display: flex;
+    gap: 209px;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__block ul {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    list-style: none;
+}
+
+.header__block a {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 13px;
+    color: #242d52;
+}
+
+.header__block a:hover {
+    opacity: 0.5;
+}
+
+.header__block button {
+    padding: 13px 32px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    border-radius: 22px;
+    border: none;
+    color: #fff;
+    background-color: #F3603C;
+}
